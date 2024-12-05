@@ -1,0 +1,12 @@
+{
+  "xp_requirement": 6,
+  "attribute_modifiers": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "name": "DualAxe",
+      "uuid": "d65aa3ed-36e7-4d64-9d2f-416296cc7e6e",
+      "operation": "multiply_total",
+      "amount": 0.05
+    }
+  ]
+}
